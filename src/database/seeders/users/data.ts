@@ -7,7 +7,7 @@ export const users: User[] = [
         username: 'bvipul',
         firstName: 'Vipul',
         lastName: 'Basapati',
-        email: 'vipul.basapati@contentcreation.com.my',
+        email: 'customer@gmail.com',
         password: 'root',
         created_at: moment(),
         updated_at: moment()
